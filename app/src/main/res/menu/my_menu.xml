@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_1"
+        android:title="Home"
+        android:icon="@drawable/ic_home1"/>
+    <item android:id="@+id/menu_2"
+        android:title="Popular"
+        android:icon="@drawable/ic_popular1"/>
+    <item android:id="@+id/menu_3"
+        android:title="Random"
+        android:icon="@drawable/ic_random1"/>
+    <item android:id="@+id/menu_4"
+        android:title="My Favourites"
+        android:icon="@drawable/ic_like1"/>
+</menu>
